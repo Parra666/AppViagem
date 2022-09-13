@@ -37,7 +37,7 @@ namespace App1.View
             lbl_custo_viagem.Text = custo_viagem.ToString("C");
         }
 
-        private void ToolbarItem_Clicked_Pedagios(object sender, EventArgs e)
+        private void ToolbarItem_Clicked_Pedagio(object sender, EventArgs e)
         {
             Navigation.PushAsync(new Listagem());
         }

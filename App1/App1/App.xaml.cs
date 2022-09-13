@@ -1,7 +1,6 @@
 ﻿using App1.Model;
 using App1.View;
 using Xamarin.Forms;
-
 using System.Globalization;
 using System.Threading;
 using System.Collections.ObjectModel;

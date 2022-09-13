@@ -9,7 +9,7 @@
         <ToolbarItem Text="Somar" Clicked="ToolbarItem_Clicked_Somar" />
     </ContentPage.ToolbarItems>
 
-    ]
+    
     <ContentPage.Content>
         <StackLayout>
             <Frame Margin="5" HasShadow="True" CornerRadius="10">
